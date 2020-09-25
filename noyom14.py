@@ -44,6 +44,6 @@ $ `git clone https://github.com/lovefucker420/sfteam`
 
 $ `cd sfteam`
 
-$ `python2 sfteam.py`
+$ `python2 noyon14.py`
 
 
