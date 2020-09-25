@@ -1,4 +1,4 @@
-# sfteam
+P# sfteam
 ![](https://img.shields.io/badge/lovefucker420-SilentForce-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
 <a href="#"><img title="Made in Bangladesh " src="https://img.shields.io/badge/MADE%20IN-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -20,7 +20,7 @@
 <a href="https://github.com/lovefucker420/sfteam/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovefucker420?color=blue&style=flat-square"></a>
 <a href="https://github.com/lovefucker420/sfteam /stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovefucker420/World?color=red&style=flat-square"></a>
 <a href="https://github.com/lovefucker420/sfteam/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovefucker420/devil?color=red&style=flat-square"></a>
-<a href="https://github.com/lovefucker420/sfteam/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovefucker420/devil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/sfteam/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovefucker420/sfteam?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 # Installation :
